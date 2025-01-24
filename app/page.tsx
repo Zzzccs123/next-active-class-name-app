@@ -1,4 +1,6 @@
 import Nav from "../components/Nav";
+import './global.module.css'
+import './global.css'
 
 const IndexPage = () => (
   <>
